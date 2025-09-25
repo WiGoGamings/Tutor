@@ -302,8 +302,9 @@ footer {
         top: 100%;
         left: 0;
         right: 0;
-        background-color: #f61706;
+        background-color: black;
         display: none;
+       
 
     }
 
@@ -404,13 +405,6 @@ footer {
     align-items: center;
 }
 
-
-  
-    
-
-
-
-
-
-
 }
+
+
